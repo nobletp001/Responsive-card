@@ -6,7 +6,7 @@ flex box
 basic Css
 css pseudoselector
 media query
-****Javascript*****8
+****Javascript*****
 DOM manipulation
 forEach
 map 
